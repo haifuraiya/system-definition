@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.polarsys.capella.core.ui.semantic.browser.sirius.view.SiriusSemanticBrowserView">
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;SiriusSemanticBrowserView listeningToWorkbenchPageSelectionEvents=&quot;1&quot;/&gt;" key="memento"/>
+	</section>
+</section>

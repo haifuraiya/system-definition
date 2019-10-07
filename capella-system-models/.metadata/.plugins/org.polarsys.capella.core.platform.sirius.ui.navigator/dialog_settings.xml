@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.polarsys.capella.core.platform.sirius.ui.navigator.view.CapellaCommonNavigator">
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;CapellaCommonNavigator CommonNavigator.LINKING_ENABLED=&quot;0&quot;&gt;&#x0A;&lt;lastRecentlyUsedFilters/&gt;&#x0A;&lt;/CapellaCommonNavigator&gt;" key="memento"/>
+	</section>
+</section>
