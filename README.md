@@ -12,7 +12,7 @@ The folder [capella-system-models](capella-system-models) contains the workspace
 
 The outputs of the tool are rendered to navigable HTML, the index of this is found [here](TBD).
 
-### Simualtions
+### Simulations
 
 System level simulations can be found in the [simulations](simulations) folder.  Although most results are intended to be viewed from the Capella generated HTML.
 
