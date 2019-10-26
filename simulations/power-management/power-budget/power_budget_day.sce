@@ -188,5 +188,5 @@ xtitle("Battery State of Charge", "Hours", "Generated Power (W)");
 
 // plot the battery state of charge
 subplot(212)
-plot(linspace(0, 24, length(battery_charge)), 100*(battery_charge/battery_start_capacity), "thickness", 2);
+plot(linspace(0, 24, length(battery_charge)), 100*(1 - battery_charge/battery_start_capacity), "thickness", 2);
 xtitle("Battery State of Charge", "Hours", "Depth of Discharge (%)");
