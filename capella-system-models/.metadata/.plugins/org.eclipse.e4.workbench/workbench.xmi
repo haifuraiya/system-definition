@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_dPD1oObSEemRhYKjyUb5zQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_dPD1oebSEemRhYKjyUb5zQ" bindingContexts="_dPFEqObSEemRhYKjyUb5zQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[ES] Science Sensing Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[ES] Science Sensing Scenario&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_a03vhPC0EemVYdBQCgNfog&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[ES] Science Sensing Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_a08oAfC0EemVYdBQCgNfog&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SAB] Satellite System&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SAB] Satellite System&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_Ir5_AfC0EemVYdBQCgNfog&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SAB] Satellite System&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_Ir-3gfC0EemVYdBQCgNfog&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] High Throughput Operation Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] High Throughput Operation Scenario&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_MhNr1fA0EemVYdBQCgNfog&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[FS] High Throughput Operation Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_MhTLYfA0EemVYdBQCgNfog&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] Science Sensing Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] Science Sensing Scenario&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_K_9BlO99EemiWavzVClqKQ&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[FS] Science Sensing Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_LAChIe99EemiWavzVClqKQ&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SDFB] Attitude &amp;amp; Orbit Control Functional Dataflow&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SDFB] Attitude &amp;amp; Orbit Control Functional Dataflow&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_YbSB4Oe0EemcKaQzVckZWw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SDFB] Attitude &amp;amp; Orbit Control Functional Dataflow&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_YbfdQee0EemcKaQzVckZWw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SDFB] Power Management Functional Dataflow&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SDFB] Power Management Functional Dataflow&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_4eCLwOb7Eemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SDFB] Power Management Functional Dataflow&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_4eEoAeb7Eemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SDFB] Top Level Functional Overview&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SDFB] Top Level Functional Overview&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_pdLO8ebrEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SDFB] Top Level Functional Overview&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_pdNrMebrEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SFBD] Payload Functions&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SFBD] Payload Functions&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_njeKEeblEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SFBD] Payload Functions&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_njgmUeblEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SFBD] Satellite System Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SFBD] Satellite System Breakdown&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_aZ21MOb1Eemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SFBD] Satellite System Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_aZ870eb1Eemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SFBD] Science Sensing Functional Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SFBD] Science Sensing Functional Breakdown&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_VAmnIO99EemiWavzVClqKQ&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SFBD] Science Sensing Functional Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_VArfoe99EemiWavzVClqKQ&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SFBD] Top Level System Functions&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SFBD] Top Level System Functions&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_qcneQObhEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SFBD] Top Level System Functions&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_qcp6gebhEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] End of Life Pacification Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] End of Life Pacification Scenario&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_YvYHQPAzEemVYdBQCgNfog&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[FS] End of Life Pacification Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_YvliofAzEemVYdBQCgNfog&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] Radiation Detection and Protection&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] Radiation Detection and Protection&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_anFERO95EemiWavzVClqKQ&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[FS] Radiation Detection and Protection&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_anMZAe95EemiWavzVClqKQ&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] Power Generation Functional Description&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] Power Generation Functional Description&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_1xKJkO9xEemiWavzVClqKQ&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[FS] Power Generation Functional Description&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_1xZaIe9xEemiWavzVClqKQ&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[MCB] Capabilities&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[MCB] Capabilities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_PKYLMObYEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[MCB] Capabilities&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_PKancebYEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.amalgam.explorer.activity.ui.internal.ActivityExplorerEditorInputFactory&quot; id=&quot;org.eclipse.amalgam.explorer.activity.ui.editor.activityExplorerEditor&quot; name=&quot;top-level&quot; tooltip=&quot;top-level&quot;>&#xA;&lt;persistable activityExplorerFile=&quot;/top-level/top-level.aird&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SFBD] Top Level System Functions&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SFBD] Top Level System Functions&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_qcneQObhEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SFBD] Top Level System Functions&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_qcp6gebhEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.table.ui.CrossTableEditorID&quot; name=&quot;New System Actors - Operational Actors/Operational Entities&quot; tooltip=&quot;/New System Actors - Operational Actors/Operational Entities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_nxvB0ObgEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;New System Actors - Operational Actors/Operational Entities&quot; uri=&quot;#_nxaRsObgEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.table.ui.EditionTableEditorID&quot; name=&quot;Requirements&quot; tooltip=&quot;/Requirements&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_mtCD0PdYEemAepIeihnM4w&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;Requirements&quot; uri=&quot;#_msX8gPdYEemAepIeihnM4w&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[MCB] Space Enviroment Capabilities&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[MCB] Space Enviroment Capabilities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_b26MUOeVEemFSKtUmjZioQ&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[MCB] Space Enviroment Capabilities&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_b292seeVEemFSKtUmjZioQ&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[MCB] Capabilities&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[MCB] Capabilities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_PKYLMObYEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[MCB] Capabilities&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_PKancebYEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[OEBD] Operational Context&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[OEBD] Operational Context&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_I_wOQObTEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[OEBD] Operational Context&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_I_4xIebTEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[OAB] High Level Expected Activities&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[OAB] High Level Expected Activities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_ZDc7YebTEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[OAB] High Level Expected Activities&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_ZDfXoebTEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.table.ui.EditionTableEditorID&quot; name=&quot;Initial Requirements Summary&quot; tooltip=&quot;/Initial Requirements Summary&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_JpSusOntEemygIpwLMzPXA&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;Initial Requirements Summary&quot; uri=&quot;#_JorqsOntEemygIpwLMzPXA&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.table.ui.CrossTableEditorID&quot; name=&quot;New Requirements - Operational Activities&quot; tooltip=&quot;/New Requirements - Operational Activities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_47HpEPdREem7d7wt-jaeAw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;New Requirements - Operational Activities&quot; uri=&quot;#_46ev4PdREem7d7wt-jaeAw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SFBD] Satellite System Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SFBD] Satellite System Breakdown&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_aZ21MOb1Eemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SFBD] Satellite System Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_aZ870eb1Eemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SDFB] Top Level Functional Overview&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SDFB] Top Level Functional Overview&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_pdLO8ebrEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SDFB] Top Level Functional Overview&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_pdNrMebrEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.polarsys.capella.core.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_dPD1oebSEemRhYKjyUb5zQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_dPD1oubSEemRhYKjyUb5zQ" x="148" y="26" width="1772" height="1446">
@@ -40,23 +40,29 @@
           <tags>persp.actionSet:org.eclipse.egf.producer.ui.run.actionSet</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_dPD1pebSEemRhYKjyUb5zQ" selectedElement="_dPD1p-bSEemRhYKjyUb5zQ" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_dPD1pubSEemRhYKjyUb5zQ" elementId="center" toBeRendered="false" containerData="9900"/>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_dPD1p-bSEemRhYKjyUb5zQ" containerData="100" selectedElement="_dPD1rebSEemRhYKjyUb5zQ" horizontal="true">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_dPD1qObSEemRhYKjyUb5zQ" containerData="2576" selectedElement="_dPD1qebSEemRhYKjyUb5zQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_dPD1p-bSEemRhYKjyUb5zQ" containerData="100" selectedElement="_dPD1qObSEemRhYKjyUb5zQ" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_dPD1qObSEemRhYKjyUb5zQ" containerData="3534" selectedElement="_dPD1qebSEemRhYKjyUb5zQ">
                 <children xsi:type="basic:PartStack" xmi:id="_dPD1qebSEemRhYKjyUb5zQ" elementId="topLeft" containerData="7142" selectedElement="_dPD1qubSEemRhYKjyUb5zQ">
+                  <tags>active</tags>
+                  <tags>noFocus</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_dPD1qubSEemRhYKjyUb5zQ" elementId="capella.project.explorer" ref="_dPEdJObSEemRhYKjyUb5zQ"/>
                 </children>
                 <children xsi:type="basic:PartStack" xmi:id="_dPD1q-bSEemRhYKjyUb5zQ" elementId="bottomLeft" containerData="2858" selectedElement="_dPD1rObSEemRhYKjyUb5zQ">
                   <children xsi:type="advanced:Placeholder" xmi:id="_dPD1rObSEemRhYKjyUb5zQ" elementId="org.polarsys.capella.core.ui.fastlinker.view" ref="_dPEdOebSEemRhYKjyUb5zQ"/>
                 </children>
               </children>
-              <children xsi:type="basic:PartSashContainer" xmi:id="_dPD1rebSEemRhYKjyUb5zQ" containerData="7424" selectedElement="_dPD1rubSEemRhYKjyUb5zQ">
-                <children xsi:type="advanced:Placeholder" xmi:id="_dPD1rubSEemRhYKjyUb5zQ" elementId="org.eclipse.ui.editorss" containerData="7331" ref="_dPEdHObSEemRhYKjyUb5zQ"/>
-                <children xsi:type="basic:PartStack" xmi:id="_dPD1r-bSEemRhYKjyUb5zQ" elementId="bottom" containerData="2669" selectedElement="_dPD1sObSEemRhYKjyUb5zQ">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_dPD1rebSEemRhYKjyUb5zQ" containerData="6466" selectedElement="_dPD1rubSEemRhYKjyUb5zQ">
+                <children xsi:type="advanced:Placeholder" xmi:id="_dPD1rubSEemRhYKjyUb5zQ" elementId="org.eclipse.ui.editorss" containerData="6448" ref="_dPEdHObSEemRhYKjyUb5zQ"/>
+                <children xsi:type="basic:PartStack" xmi:id="_dPD1r-bSEemRhYKjyUb5zQ" elementId="bottom" containerData="3552" selectedElement="_RQ3YAPdqEemIVPQMtMoPpQ">
                   <tags>Capella</tags>
+                  <tags>General</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_dPD1sObSEemRhYKjyUb5zQ" elementId="org.eclipse.ui.views.PropertySheet" ref="_dPEdP-bSEemRhYKjyUb5zQ"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_dPD1sebSEemRhYKjyUb5zQ" elementId="org.polarsys.capella.common.tools.report.appenders.reportlogview.logview" ref="_dPEdTebSEemRhYKjyUb5zQ"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_dPD1subSEemRhYKjyUb5zQ" elementId="org.polarsys.capella.core.ui.semantic.browser.view.SemanticBrowserID" ref="_dPEdTubSEemRhYKjyUb5zQ"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_4tOdgewNEemQbZTzshATGw" elementId="org.polarsys.capella.core.libraries.ui.moveview" ref="_4tOdgOwNEemQbZTzshATGw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_sSVbQPdfEemN_rEq2N_k3g" elementId="org.eclipse.ui.console.ConsoleView" ref="_sSU0MPdfEemN_rEq2N_k3g"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_E0a64PdpEemIVPQMtMoPpQ" elementId="org.eclipse.ui.views.ProgressView" ref="_E0ZswPdpEemIVPQMtMoPpQ"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_RQ3YAPdqEemIVPQMtMoPpQ" elementId="org.eclipse.pde.runtime.LogView" ref="_RQ2w8PdqEemIVPQMtMoPpQ"/>
                 </children>
               </children>
             </children>
@@ -93,702 +99,15 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_dPEdHObSEemRhYKjyUb5zQ" elementId="org.eclipse.ui.editorss" selectedElement="_dPEdHebSEemRhYKjyUb5zQ">
-      <children xsi:type="basic:PartStack" xmi:id="_dPEdHebSEemRhYKjyUb5zQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_Ku55UPA3EemVYdBQCgNfog">
+      <children xsi:type="basic:PartStack" xmi:id="_dPEdHebSEemRhYKjyUb5zQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_62ts4PduEemLWZHLJgDbEQ">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_dPEdHubSEemRhYKjyUb5zQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="top-level" iconURI="platform:/plugin/org.eclipse.amalgam.explorer.activity.ui/icons/full/obj16/menu-overview.gif" closeable="true">
+        <children xsi:type="basic:Part" xmi:id="_62ts4PduEemLWZHLJgDbEQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="top-level" iconURI="platform:/plugin/org.eclipse.amalgam.explorer.activity.ui/icons/full/obj16/menu-overview.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.amalgam.explorer.activity.ui.editor.activityExplorerEditor&quot; name=&quot;top-level&quot; partName=&quot;top-level&quot; title=&quot;top-level&quot; tooltip=&quot;top-level&quot;>&#xA;&lt;input activityExplorerFile=&quot;/top-level/top-level.aird&quot; factoryID=&quot;org.eclipse.amalgam.explorer.activity.ui.internal.ActivityExplorerEditorInputFactory&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.amalgam.explorer.activity.ui.editor.activityExplorerEditor</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_z_YZgObXEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_z_j_sObXEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_z_twsObXEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_-VOzAObXEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_-VWHwObXEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_-VdcgObXEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="__KiqYObXEemykdp9upuPRw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="__yCvQObXEemykdp9upuPRw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_AvAGwObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_AvJ3wObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_AvP-YObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_BuLEwObYEemykdp9upuPRw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_C0_i4ObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_C1HesObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_C1OzcObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_kfGGAObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_kfP3AObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_kfZA8ObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rflGMObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rfrM0ObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rfwsYObYEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_j_VEAObcEemykdp9upuPRw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_kzd2sObcEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_kznAoObcEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_kzwxoObcEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_MrG9UObhEemykdp9upuPRw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_nU1jEObjEemykdp9upuPRw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_uoctEOcDEemykdp9upuPRw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_wdne8OcDEemykdp9upuPRw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_yWu8sOcDEemykdp9upuPRw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_1dXWcOcDEemykdp9upuPRw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_-boR8OcDEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_-bw00OcDEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_-b5XsOcDEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_By1eUOcEEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_By8MAOcEEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_BzBEgOcEEemykdp9upuPRw" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ro7a8OeSEemFSKtUmjZioQ" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_2Buv4OeUEemFSKtUmjZioQ" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_wef9IO9xEemiWavzVClqKQ" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_JN5ZoO9zEemiWavzVClqKQ" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_tMDNkO90EemiWavzVClqKQ" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_XJTV0O95EemiWavzVClqKQ" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_2RyQwO95EemiWavzVClqKQ" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_E7078O99EemiWavzVClqKQ" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_IjLdIO99EemiWavzVClqKQ" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_WjUfYPAzEemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_IdmscPA0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_YbdBEPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_zosJAOehEemFSKtUmjZioQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[SFBD] Satellite System Breakdown" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SFBD] Satellite System Breakdown&quot; partName=&quot;[SFBD] Satellite System Breakdown&quot; title=&quot;[SFBD] Satellite System Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SFBD] Satellite System Breakdown&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_aZ21MOb1Eemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[SFBD] Satellite System Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_aZ870eb1Eemykdp9upuPRw&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_5WSkAOesEemEZPp4kTEGeg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_5XWT8OesEemEZPp4kTEGeg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_OjPYAOevEemuhsf6hy0RcA" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_OjkvMOevEemuhsf6hy0RcA" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_4PaUIOevEemDtoqxV8WTgA" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_4PksMOevEemDtoqxV8WTgA" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_5bLjsOevEemDtoqxV8WTgA" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_5bXJ4OevEemDtoqxV8WTgA" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_o-Vz0O9wEemiWavzVClqKQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[CDI] Satellite System" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[CDI] Satellite System&quot; partName=&quot;[CDI] Satellite System&quot; title=&quot;[CDI] Satellite System&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[CDI] Satellite System&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_mrrDw-cDEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[CDI] Satellite System&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_mrv8QecDEemykdp9upuPRw&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_PYatEO9xEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_PYrLwO9xEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_qVLq8O9wEemiWavzVClqKQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[SAB] System" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SAB] System&quot; partName=&quot;[SAB] System&quot; title=&quot;[SAB] System&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SAB] System&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_1IqzcObwEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[SAB] System&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_1IsooebwEemykdp9upuPRw&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
-          <tags>removeOnHide</tags>
           <tags>activeOnClose</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_5sHQUO9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_5spb0O9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_725s4O9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_73oFoO9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8zAIwO9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8zWuEO9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_9hOgsO9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_9hdxQO9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_-Oku4O9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_-O0mgO9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_-zgA4O9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_-zvRcO9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="__a2UwO9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="__bEXMO9-EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ACEFwO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ACVLgO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_AmuSAO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Am87gO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_BaNkcO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Babm4O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_CsqDwO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_CtBQIO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_DkWgwO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_DkqCwO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_EFv9oO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_EGF74O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_FHfugO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_FHuYAO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Gfli0O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Gfy-MO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_NwEG0O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_NwVzoO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_O4Qd8O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_O5J10O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Px7Q4O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_PyIsQO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Q4TqIO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Q4pBUO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Rkgo0O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Rk1Y8O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_SFQlcO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_SFfO8O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_SnWl4O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_SnnroO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_TfB0wO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_TfSTcO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_UW4CwO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_UXH6YO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_WSzj8O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_WTBmYO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_XPTocO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_XPiR8O9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZLXFcO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8iH-sO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_8ikqoO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_9FzTgO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_9F_gwO9_EemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_NeWPQO-AEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_NfJggO-AEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ONsokO-AEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ON-VYO-AEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_O1dMIO-AEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_O1uR4O-AEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_V61TYO-AEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_V7R_UO-AEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Y4W0cO-AEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Y4un4O-AEemiWavzVClqKQ" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_dMFOAPAxEemVYdBQCgNfog" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_dMWTwPAxEemVYdBQCgNfog" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_eDDSQPAxEemVYdBQCgNfog" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_eDcT0PAxEemVYdBQCgNfog" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_UYOuIPCyEemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_UYZtQPCyEemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_Ku55UPA3EemVYdBQCgNfog" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[SDFB] Top Level Functional Overview" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SDFB] Top Level Functional Overview&quot; partName=&quot;[SDFB] Top Level Functional Overview&quot; title=&quot;[SDFB] Top Level Functional Overview&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SDFB] Top Level Functional Overview&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_pdLO8ebrEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[SDFB] Top Level Functional Overview&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_pdNrMebrEemykdp9upuPRw&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
-          <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_UDoMkPCxEemVYdBQCgNfog" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[FS] Science Sensing Scenario" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] Science Sensing Scenario&quot; partName=&quot;[FS] Science Sensing Scenario&quot; title=&quot;[FS] Science Sensing Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] Science Sensing Scenario&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_K_9BlO99EemiWavzVClqKQ&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[FS] Science Sensing Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_LAChIe99EemiWavzVClqKQ&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Vhre8PCxEemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ViKnIPCxEemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_uJMnQPCxEemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_uJbQwPCxEemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_xd88kPCxEemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_0pzNgPCxEemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_3KPxAPCxEemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_sfzAgPCxEemVYdBQCgNfog" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[FS] High Throughput Operation Scenario" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] High Throughput Operation Scenario&quot; partName=&quot;[FS] High Throughput Operation Scenario&quot; title=&quot;[FS] High Throughput Operation Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] High Throughput Operation Scenario&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_MhNr1fA0EemVYdBQCgNfog&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[FS] High Throughput Operation Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_MhTLYfA0EemVYdBQCgNfog&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_IsGzUPC0EemVYdBQCgNfog" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[SAB] Satellite System" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SAB] Satellite System&quot; partName=&quot;[SAB] Satellite System&quot; title=&quot;[SAB] Satellite System&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SAB] Satellite System&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_Ir5_AfC0EemVYdBQCgNfog&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[SAB] Satellite System&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_Ir-3gfC0EemVYdBQCgNfog&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_KH2_oPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_KINk8PC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_OYDpgPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_OYMzcPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_Qd5UoPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_QeETwPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_S4iyIPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_UzeNwPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_UzmwoPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_a1cXQPC0EemVYdBQCgNfog" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[ES] Science Sensing Scenario" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[ES] Science Sensing Scenario&quot; partName=&quot;[ES] Science Sensing Scenario&quot; title=&quot;[ES] Science Sensing Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[ES] Science Sensing Scenario&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_a03vhPC0EemVYdBQCgNfog&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[ES] Science Sensing Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_a08oAfC0EemVYdBQCgNfog&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_cu5zQPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_cvOjYPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_f0ymIPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_jUGloPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_oZWoMPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_p3nV8PC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_stMb8PC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_tvC6gPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ux9JAPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_v7gLAPC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_0Me4APC0EemVYdBQCgNfog" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
-          </menus>
         </children>
       </children>
     </sharedElements>
@@ -798,6 +117,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot;>&#xA;&lt;lastRecentlyUsedFilters/>&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Capella</tags>
+      <tags>activeOnClose</tags>
+      <tags>active</tags>
       <menus xmi:id="_dPEdJebSEemRhYKjyUb5zQ" elementId="capella.project.explorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -978,6 +299,82 @@
         <tags>menuContribution:popup</tags>
         <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
       </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_jCXRQPdKEemMpIlTt9xh6Q" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_jC_jYPdKEemMpIlTt9xh6Q" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_mmdekPdUEem7d7wt-jaeAw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_mmq58PdUEem7d7wt-jaeAw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_oyipsPdWEem7d7wt-jaeAw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_oytBwPdWEem7d7wt-jaeAw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_qBODUPdWEem7d7wt-jaeAw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_qBdT4PdWEem7d7wt-jaeAw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_vHzGIPdXEem7d7wt-jaeAw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_vH-sUPdXEem7d7wt-jaeAw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_VKlgwPdYEemAepIeihnM4w" elementId="org.polarsys.capella.core.ui.metric.dialog.progressMonitoring">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.core.ui.metric.dialog.progressMonitoring</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_ZoxjUPdYEemAepIeihnM4w" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_ZpAz4PdYEemAepIeihnM4w" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_yxXGcPdaEemAepIeihnM4w" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_yxhegPdaEemAepIeihnM4w" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_25ag8PdaEemAepIeihnM4w" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_25rmsPdaEemAepIeihnM4w" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_YDKJAPdbEemAepIeihnM4w" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_YDUhEPdbEemAepIeihnM4w" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+      </menus>
       <toolbar xmi:id="_dPEdMubSEemRhYKjyUb5zQ" elementId="capella.project.explorer"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_dPEdOebSEemRhYKjyUb5zQ" elementId="org.polarsys.capella.core.ui.fastlinker.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Fast Linker" iconURI="platform:/plugin/org.polarsys.capella.core.ui.fastlinker/icons/cview/fastlinker_view16x16.gif" tooltip="" closeable="true">
@@ -1022,7 +419,15 @@
         <tags>menuContribution:popup</tags>
         <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
       </menus>
-      <toolbar xmi:id="_dPEdSObSEemRhYKjyUb5zQ" elementId="org.eclipse.ui.views.PropertySheet"/>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_2cIWwPdUEem7d7wt-jaeAw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_2cSu0PdUEem7d7wt-jaeAw" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+      </menus>
+      <toolbar xmi:id="_dPEdSObSEemRhYKjyUb5zQ" elementId="org.eclipse.ui.views.PropertySheet" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_dPEdTebSEemRhYKjyUb5zQ" elementId="org.polarsys.capella.common.tools.report.appenders.reportlogview.logview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Information" iconURI="platform:/plugin/org.polarsys.capella.core.ui.reportlog/icons/information_16x16.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.polarsys.capella.core.ui.reportlog.InformationView"/>
@@ -1046,6 +451,18 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_HnHxMPdXEem7d7wt-jaeAw" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.impactAnalysis">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.impactAnalysis</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_Q37OMPdXEem7d7wt-jaeAw" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.impactAnalysis">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.impactAnalysis</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_SMLrYPdXEem7d7wt-jaeAw" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.impactAnalysis">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.impactAnalysis</tags>
+      </menus>
       <toolbar xmi:id="_SizysebwEemykdp9upuPRw" elementId="org.polarsys.capella.core.ui.semantic.browser.view.SemanticBrowserID" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_4tOdgOwNEemQbZTzshATGw" elementId="org.polarsys.capella.core.libraries.ui.moveview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Transfer" iconURI="platform:/plugin/org.polarsys.capella.core.libraries.ui/icons/transfer_16x16.png" tooltip="" closeable="true">
@@ -1060,6 +477,44 @@
       </menus>
       <toolbar xmi:id="_4tXAYewNEemQbZTzshATGw" elementId="org.polarsys.capella.core.libraries.ui.moveview" visible="false"/>
     </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_sSU0MPdfEemN_rEq2N_k3g" elementId="org.eclipse.ui.console.ConsoleView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.console"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.console.ConsoleView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+      <tags>activeOnClose</tags>
+      <menus xmi:id="_sSsAkPdfEemN_rEq2N_k3g" elementId="org.eclipse.ui.console.ConsoleView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_sSsnoPdfEemN_rEq2N_k3g" elementId="org.eclipse.ui.console.ConsoleView" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_E0ZswPdpEemIVPQMtMoPpQ" elementId="org.eclipse.ui.views.ProgressView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Progress" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/pview.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.ide"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.progress.ProgressView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+      <menus xmi:id="_E0l6APdpEemIVPQMtMoPpQ" elementId="org.eclipse.ui.views.ProgressView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_E0mhEPdpEemIVPQMtMoPpQ" elementId="org.eclipse.ui.views.ProgressView" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_RQ2w8PdqEemIVPQMtMoPpQ" elementId="org.eclipse.pde.runtime.LogView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Error Log" iconURI="platform:/plugin/org.eclipse.ui.views.log/icons/eview16/error_log.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.views.log"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.log.LogView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view activate=&quot;true&quot; allSessions=&quot;true&quot; column2=&quot;300&quot; column3=&quot;150&quot; column4=&quot;423&quot; error=&quot;true&quot; groupBy=&quot;0&quot; info=&quot;true&quot; limit=&quot;50&quot; maxLogTailSize=&quot;1&quot; ok=&quot;true&quot; orderType=&quot;2&quot; orderValue=&quot;-1&quot; show_filter_text=&quot;true&quot; useLimit=&quot;true&quot; warning=&quot;true&quot;/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+      <tags>activeOnClose</tags>
+      <menus xmi:id="_RRLhEPdqEemIVPQMtMoPpQ" elementId="org.eclipse.pde.runtime.LogView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_RRLhEfdqEemIVPQMtMoPpQ" elementId="org.eclipse.pde.runtime.LogView"/>
+    </sharedElements>
     <trimBars xmi:id="_dPEdT-bSEemRhYKjyUb5zQ" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.eclipse.ui.workbench">
       <children xsi:type="menu:ToolBar" xmi:id="_dPEdUObSEemRhYKjyUb5zQ" elementId="group.file" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1067,7 +522,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_dPEdUubSEemRhYKjyUb5zQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_vYXzQPF5EemRXprrQe8LnQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_dPIJOebSEemRhYKjyUb5zQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2h5fwPfREeml6IL7NTEVbg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_dPIJOebSEemRhYKjyUb5zQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_dPEdX-bSEemRhYKjyUb5zQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1085,7 +540,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_dPEddubSEemRhYKjyUb5zQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_vYcEsPF5EemRXprrQe8LnQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_dPIIvObSEemRhYKjyUb5zQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2h9KIPfREeml6IL7NTEVbg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_dPIIvObSEemRhYKjyUb5zQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_dPEdjebSEemRhYKjyUb5zQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2481,36 +1936,6 @@
     <persistedState key="originalCompatibilityViewBundle" value="com.thalesgroup.vpd.property.view"/>
     <tags>View</tags>
     <tags>categoryTag:Property values</tags>
-  </descriptors>
-  <descriptors xmi:id="_XKJBYOnpEemub8czfVajCQ" elementId="org.polarsys.capella.vp.price.view" label="price" iconURI="platform:/plugin/org.polarsys.capella.vp.price.af/icons/view.gif" tooltip="" category="Kitalpha" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
-    <persistedState key="originalCompatibilityViewClass" value="org.polarsys.kitalpha.ad.viewpoint.ui.views.ViewpointView"/>
-    <persistedState key="originalCompatibilityViewBundle" value="org.polarsys.capella.vp.price.af"/>
-    <tags>View</tags>
-    <tags>categoryTag:Kitalpha</tags>
-  </descriptors>
-  <descriptors xmi:id="_XKMEsOnpEemub8czfVajCQ" elementId="org.polarsys.capella.vp.perfo.view" label="perfo" iconURI="platform:/plugin/org.polarsys.capella.vp.perfo.af/icons/view.gif" tooltip="" category="Kitalpha" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
-    <persistedState key="originalCompatibilityViewClass" value="org.polarsys.kitalpha.ad.viewpoint.ui.views.ViewpointView"/>
-    <persistedState key="originalCompatibilityViewBundle" value="org.polarsys.capella.vp.perfo.af"/>
-    <tags>View</tags>
-    <tags>categoryTag:Kitalpha</tags>
-  </descriptors>
-  <descriptors xmi:id="_XKN54OnpEemub8czfVajCQ" elementId="org.polarsys.capella.vp.mass.view" label="mass" iconURI="platform:/plugin/org.polarsys.capella.vp.mass.af/icons/view.gif" tooltip="" category="Kitalpha" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
-    <persistedState key="originalCompatibilityViewClass" value="org.polarsys.kitalpha.ad.viewpoint.ui.views.ViewpointView"/>
-    <persistedState key="originalCompatibilityViewBundle" value="org.polarsys.capella.vp.mass.af"/>
-    <tags>View</tags>
-    <tags>categoryTag:Kitalpha</tags>
-  </descriptors>
-  <descriptors xmi:id="_XKQ9MOnpEemub8czfVajCQ" elementId="org.polarsys.capella.filtering.tools.view.DiagCriteriaVisibilityView" label="Diagram Filtering Criteria Visibility" iconURI="platform:/plugin/org.polarsys.capella.filtering.tools/icons/criteriaAssigning.png" tooltip="" category="Capella" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
-    <persistedState key="originalCompatibilityViewClass" value="org.polarsys.capella.filtering.tools.view.DiagCriteriaVisibilityView"/>
-    <persistedState key="originalCompatibilityViewBundle" value="org.polarsys.capella.filtering.tools"/>
-    <tags>View</tags>
-    <tags>categoryTag:Capella</tags>
-  </descriptors>
-  <descriptors xmi:id="_XKSLUOnpEemub8czfVajCQ" elementId="org.polarsys.capella.filtering.view" label="Filtering" iconURI="platform:/plugin/org.polarsys.capella.filtering.af/icons/view.gif" tooltip="" category="Kitalpha Viewpoints" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
-    <persistedState key="originalCompatibilityViewClass" value="org.polarsys.kitalpha.ad.viewpoint.ui.views.ViewpointView"/>
-    <persistedState key="originalCompatibilityViewBundle" value="org.polarsys.capella.filtering.af"/>
-    <tags>View</tags>
-    <tags>categoryTag:Kitalpha Viewpoints</tags>
   </descriptors>
   <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
     <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">

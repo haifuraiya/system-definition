@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;top-level&apos; to &apos;Top Level System Definition&apos;" description="Rename resource &apos;top-level&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/top-level" name="Top Level System Definition" stamp="1572032592229" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Top Level System Definition&apos; to &apos;top-level&apos;" description="Rename resource &apos;Top Level System Definition&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Top Level System Definition" name="top-level" stamp="1572039130226" updateReferences="true"/>
+</session>
