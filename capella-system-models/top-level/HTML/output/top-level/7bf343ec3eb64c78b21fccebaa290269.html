@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 	<head>
-		<meta name="copyright" content="Copyright &copy; 2014 The Eclipse Foundation. All Rights Reserved." />
+		<meta name="copyright" content="Copyright Info TBD" />
 		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" />
 		<meta http-equiv="Content-Style-Type" content="text/css" />
 
@@ -24,7 +24,160 @@ window.location.href = 'index.html?7bf343ec3eb64c78b21fccebaa290269';
 <em class="elementPath"><a href="../top-level/f57c5e1322e64a2999a4b3a51afcfa69.html">top&#045;level</a> > <a href="../top-level/6bec53f8c3884f4e8ff8e578e3348326.html">top&#045;level</a> > <a href="../top-level/5a6a5c6452ab4d61b42dad97dc0171d6.html">System Analysis</a> > <a href="../top-level/c7f0523c09d54359bc6bc7d0d58feccc.html">Capabilities</a> > <a href="../top-level/7bf343ec3eb64c78b21fccebaa290269.html">Power Management</a></em>
 
 <p>
-No description.
+
+<div>The satellite system needs to be capable of generating, storing and distributing the neccessary power to facilitate the operation of the payloads.</div>
+
+<div>&nbsp;</div>
+
+<h2>Power Generation</h2>
+
+<h4>Solar Panel Axes Power Generation Efficiencies</h4>
+
+<div>A Scilab script was created using the CelestLab orbital modelling toolbox from CNES. &nbsp;The following analysis was performed for a satellite in geostationary orbit at an alitude of 35,786 km.</div>
+
+<div>&nbsp;</div>
+
+<div>Due to the nature of a geostationary orbit similar orbital conditions will be experienced each day. &nbsp;However, due to the tilt of the earths orbit the angles of the solar panels vary of the year. &nbsp;To get some appreciation of this the power generated for each of the six axes was simulated over a day - the results were then combined over a year to form a heat map.</div>
+
+<div>&nbsp;</div>
+
+<div>The coordinates are referenced to the earths intertial frame. &nbsp;A negative z panel points nadir into the earths surface. &nbsp;A positive x panel is aligned with the easterly tangent at the surface of the earth directly below the satellite. &nbsp;Similarly a positive y panel points northward from the point on the earth intersected by the radius of the satellites orbit.</div>
+
+<div>&nbsp;</div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/generation_over_year_heatmap-x_positive.png"" /></div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/generation_over_year_heatmap-x_negative.png"" /></div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/generation_over_year_heatmap-y_positive.png"" /></div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/generation_over_year_heatmap-y_negative.png"" /></div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/generation_over_year_heatmap-z_positive.png"" /></div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/generation_over_year_heatmap-z_negative.png"" /></div>
+
+<div>It can be seen that the x and z axes exhibit the typical cosine reponse over the day with some slight variation over the year. &nbsp;The maximum daily power generated is 90 - 100% of the direct sunlight available. &nbsp;The y axes are never pointed directly at the sun so do not ever obtain an efficiency above 40%, because the angle is tending towards orthogonal it experiences less daily variation but greater yearly variation. &nbsp;Finally the effect of eclipses which are experienced for part of the year can be seen at the 18 hour mark on the affected panels with less intensity.</div>
+
+<div>&nbsp;</div>
+
+<div>The same data shown above has been condensed where the average power generated each day on each axis is plotted over the year. &nbsp;Here the effect of eclipse can be clearly seen on the affected axes. &nbsp;The y axes are heavily affected by the tilt of the earth with whole six month periods where no power is generated.</div>
+
+<div>&nbsp;</div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/generation_over_year_efficiency.png"" /></div>
+
+<div>&nbsp;</div>
+
+<h4>Solar Panel Configuration Power Generation Modelling</h4>
+
+<div>To model the power generated with a realistic solar panel configuration the script used the following parameters:</div>
+
+<ul>
+	<li>SpectroLab XTJ Prime Cells</li>
+	<li>X Positive - Double deployed 6U panel plus 3U body panel, 47 cells in total</li>
+	<li>X Negative - Double deployed 6U panel plus 3U body panel, 47 cells in total</li>
+	<li>Y Positive - No cells</li>
+	<li>Y Negative - No cells</li>
+	<li>Z Positive - Double deployed 6U panels, 40 cells in total</li>
+	<li>Z Negative - Double deployed 6U panels, 40 cells in total</li>
+</ul>
+
+<div>The effect of radiation was also included in the simulation by linearly interpolating the 5 years in GEO degradation value provided by Spectrolab.</div>
+
+<div>&nbsp;</div>
+
+<div>Here the average powered generated per day day is plotted for each panel:</div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/generation_over_year_power-individual_panels.png"" /></div>
+
+<div>&nbsp;</div>
+
+<div>The total power average power generated by the configuration each day is plotted below. &nbsp;Note the slight loss of power generation over the year due to radiation effects.</div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/generation_over_year_power-total.png"" /></div>
+
+<h2>Power Management</h2>
+
+<div>Here energy storage and loads will be added to the power generation above to get a feel for a representative power balance.</div>
+
+<h4>Power Balance Simulation</h4>
+
+<div>To perform the power balance simulation the following parameters were used:</div>
+
+<ul>
+	<li>The same panel configuration as above: 47 cells +/- x axis, 0 cells +/- y axis, 40 cells +/- axis</li>
+	<li>120 Watt hour battery</li>
+	<li>40 Watt continual satellite power load</li>
+</ul>
+
+<div>The continual 40 W load is not very accurate but gives a starting point.</div>
+
+<div>&nbsp;</div>
+
+<div>The following non-idealities in the system are modelled:</div>
+
+<ul>
+	<li>Solar cell efficiency degradation due to radiation induced displacement damage - updated per day</li>
+	<li>Solar array regulator efficiency at 90% - static</li>
+	<li>Battery cell degradation due to charge/discharge cycle - updated per 30 seconds</li>
+	<li>Load power increase due to TID induced leakage - updated per day</li>
+</ul>
+
+<div>The impact of the thermal enviroment is not modelled which can have a large impact on solar cell and battery performance. &nbsp;This can be added later once a thermal model is developed.</div>
+
+<div>
+<h4>Single Day Power Performance</h4>
+</div>
+
+<div>To start, a single days power generation, storage and distribution is modelled.</div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/power_generation_dod_day_120whr_40W.png"" /></div>
+
+<div>It can be seen that this scenario is modelled at a time of year when an eclipse occurs. &nbsp;The satellite maintains net positive power for almost all of the day where the battery is fully charged - 0% depth of discharge. &nbsp;As the satellite enters eclipse power generation stops and the 40 W load is drawn directly from the battery for the hour and a half eclipse period. &nbsp;This leads to significant depth of discharge - 40%. &nbsp;Following the eclipse the battery is recharged quickly due to the large power surplus.</div>
+
+<div>&nbsp;</div>
+
+<div>
+<div>
+<h4>Five Year Power Performance</h4>
+</div>
+To investigate the performance of the power system over the lifetime of the satellite longer time periods are considerd. &nbsp;Here simulations are performed over five years, the simulation is updated every 30 seconds but the data is reduced to one day snapshots, usually by averaging if not specified otherwise.</div>
+
+<div>&nbsp;</div>
+
+<div>The power generated and load on the system progresses over the five year period as seen below:</div>
+
+<div>&nbsp;</div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/power_generation_load_5years_120whr_40W.png"" /></div>
+
+<div>Here it can be seen that the radiation reduces the power generated while simultaneously increasing the load power. &nbsp;In this configuration it is clear that there is a massive power surplus is and less solar panels could be used or larger loads could be supported.</div>
+
+<div>&nbsp;</div>
+
+<div>The battery depth of discharge is considered next where the minimum, average and maximum discharge over each day is plotted.</div>
+
+<div>&nbsp;</div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/battery_dod_5years_120whr_40W.png"" /></div>
+
+<div>It can be seen that everytime an eclipse occurs the daily minumum discharge is considerable. &nbsp;The extent of the daily discharge increases due to the increased load power due to radiation and the decreasing battery capacity due to discharge cycling. &nbsp;It can be seen that in the current configuration the satellites power budget is violated after 4.5 years and the undervoltage protection would kick in.</div>
+
+<div>&nbsp;</div>
+
+<div>The battery capacity over the period is presented here:</div>
+
+<div><img src="./images/7bf343ec3eb64c78b21fccebaa290269/battery_capacity_5years_120whr_40W.png"" /></div>
+
+<div>Everytime an eclipse period is entered there is considerable battery charging and discharging action which drops the capacity of the battery. &nbsp;During the rest of the year the capacity does not drop as the battery is maintained at maximum charge. &nbsp;Any loss of battery capacity due to static ageing is not considered in this model.</div>
+
+<div>&nbsp;</div>
+
+<h4>&nbsp;</h4>
+
+<div>&nbsp;</div>
+
 </p>
 
 
