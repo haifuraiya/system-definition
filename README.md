@@ -19,4 +19,4 @@ System level simulations can be found in the [simulations](simulations) folder. 
 Current simulations include:
 - Solar power generation over specific orbits including radiation effects
 - Power budget over orbits including radiation and battery degradation effects
-- TID (Total Ionizing Dose) levels expect in SiO 
+- TID (Total Ionizing Dose) levels expected in SiO 
