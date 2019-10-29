@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
-<application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmlns:ui="http://www.eclipse.org/ui/2010/UIModel/application/ui" xmi:id="_3lUp4Pm5EempoNB4UxiqJg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_3lUp4fm5EempoNB4UxiqJg" bindingContexts="_3lYUavm5EempoNB4UxiqJg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.amalgam.explorer.activity.ui.internal.ActivityExplorerEditorInputFactory&quot; id=&quot;org.eclipse.amalgam.explorer.activity.ui.editor.activityExplorerEditor&quot; name=&quot;top-level&quot; tooltip=&quot;top-level&quot;>&#xA;&lt;persistable activityExplorerFile=&quot;/top-level/top-level.aird&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_BUcmQPgoEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_BUebcfgoEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_00gTwPgnEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_00iwAfgnEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Operator Functional Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Operator Functional Breakdown&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_WauIUPgbEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] Operator Functional Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_Wav9gfgbEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] TMTC Communication Functional Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] TMTC Communication Functional Breakdown&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_GFhbgPgbEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] TMTC Communication Functional Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_GFj3wfgbEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Power Management Logical Function&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Power Management Logical Function&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_3zKUsPgQEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] Power Management Logical Function&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_3zPNMfgQEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] PDM Enable and Disable Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] PDM Enable and Disable Scenario&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_Q-LBFPgQEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[FS] PDM Enable and Disable Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_Q-P5kfgQEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Root Logical Function&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Root Logical Function&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_hAYvMPgKEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] Root Logical Function&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_hAkVYfgKEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Root Logical Function&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Root Logical Function&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_Kpxp0OcEEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] Root Logical Function&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_KpzfAecEEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SFBD] Top Level System Functions&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SFBD] Top Level System Functions&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_qcneQObhEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SFBD] Top Level System Functions&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_qcp6gebhEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.table.ui.CrossTableEditorID&quot; name=&quot;New System Actors - Operational Actors/Operational Entities&quot; tooltip=&quot;/New System Actors - Operational Actors/Operational Entities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_nxvB0ObgEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;New System Actors - Operational Actors/Operational Entities&quot; uri=&quot;#_nxaRsObgEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.table.ui.EditionTableEditorID&quot; name=&quot;Requirements&quot; tooltip=&quot;/Requirements&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_mtCD0PdYEemAepIeihnM4w&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;Requirements&quot; uri=&quot;#_msX8gPdYEemAepIeihnM4w&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[MCB] Space Enviroment Capabilities&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[MCB] Space Enviroment Capabilities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_b26MUOeVEemFSKtUmjZioQ&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[MCB] Space Enviroment Capabilities&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_b292seeVEemFSKtUmjZioQ&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[MCB] Capabilities&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[MCB] Capabilities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_PKYLMObYEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[MCB] Capabilities&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_PKancebYEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[OEBD] Operational Context&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[OEBD] Operational Context&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_I_wOQObTEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[OEBD] Operational Context&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_I_4xIebTEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+<application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_3lUp4Pm5EempoNB4UxiqJg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_3lUp4fm5EempoNB4UxiqJg" bindingContexts="_3lYUavm5EempoNB4UxiqJg">
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Power Management Logical Function&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Power Management Logical Function&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_3zKUsPgQEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] Power Management Logical Function&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_3zPNMfgQEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] PDM Enable and Disable Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] PDM Enable and Disable Scenario&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_Q-LBFPgQEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[FS] PDM Enable and Disable Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_Q-P5kfgQEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.amalgam.explorer.activity.ui.internal.ActivityExplorerEditorInputFactory&quot; id=&quot;org.eclipse.amalgam.explorer.activity.ui.editor.activityExplorerEditor&quot; name=&quot;top-level&quot; tooltip=&quot;top-level&quot;>&#xA;&lt;persistable activityExplorerFile=&quot;/top-level/top-level.aird&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_BUcmQPgoEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_BUebcfgoEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_00gTwPgnEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_00iwAfgnEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Operator Functional Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Operator Functional Breakdown&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_WauIUPgbEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] Operator Functional Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_Wav9gfgbEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] TMTC Communication Functional Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] TMTC Communication Functional Breakdown&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_GFhbgPgbEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] TMTC Communication Functional Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_GFj3wfgbEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Root Logical Function&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Root Logical Function&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_hAYvMPgKEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] Root Logical Function&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_hAkVYfgKEemh__FnCpdmOg&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Root Logical Function&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Root Logical Function&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_Kpxp0OcEEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[LFBD] Root Logical Function&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_KpzfAecEEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[SFBD] Top Level System Functions&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[SFBD] Top Level System Functions&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_qcneQObhEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[SFBD] Top Level System Functions&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_qcp6gebhEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.table.ui.CrossTableEditorID&quot; name=&quot;New System Actors - Operational Actors/Operational Entities&quot; tooltip=&quot;/New System Actors - Operational Actors/Operational Entities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_nxvB0ObgEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;New System Actors - Operational Actors/Operational Entities&quot; uri=&quot;#_nxaRsObgEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.table.ui.EditionTableEditorID&quot; name=&quot;Requirements&quot; tooltip=&quot;/Requirements&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_mtCD0PdYEemAepIeihnM4w&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;Requirements&quot; uri=&quot;#_msX8gPdYEemAepIeihnM4w&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[MCB] Space Enviroment Capabilities&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[MCB] Space Enviroment Capabilities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_b26MUOeVEemFSKtUmjZioQ&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[MCB] Space Enviroment Capabilities&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_b292seeVEemFSKtUmjZioQ&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[MCB] Capabilities&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[MCB] Capabilities&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_PKYLMObYEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[MCB] Capabilities&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_PKancebYEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[OEBD] Operational Context&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[OEBD] Operational Context&quot;>&#xA;&lt;persistable REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_I_wOQObTEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; name=&quot;[OEBD] Operational Context&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_I_4xIebTEemykdp9upuPRw&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.polarsys.capella.core.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_3lUp4fm5EempoNB4UxiqJg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_3lUp4vm5EempoNB4UxiqJg" x="148" y="26" width="1772" height="1446">
@@ -41,7 +41,7 @@
           <children xsi:type="basic:PartSashContainer" xmi:id="_3lUp5fm5EempoNB4UxiqJg" selectedElement="_3lUp5_m5EempoNB4UxiqJg" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_3lUp5vm5EempoNB4UxiqJg" elementId="center" toBeRendered="false" containerData="9900"/>
             <children xsi:type="basic:PartSashContainer" xmi:id="_3lUp5_m5EempoNB4UxiqJg" containerData="100" selectedElement="_3lVQ8fm5EempoNB4UxiqJg" horizontal="true">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_3lUp6Pm5EempoNB4UxiqJg" visible="false" containerData="3534" selectedElement="_3lUp6fm5EempoNB4UxiqJg">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_3lUp6Pm5EempoNB4UxiqJg" visible="false" containerData="2424" selectedElement="_3lUp6fm5EempoNB4UxiqJg">
                 <children xsi:type="basic:PartStack" xmi:id="_3lUp6fm5EempoNB4UxiqJg" elementId="topLeft" visible="false" containerData="7142" selectedElement="_3lUp6vm5EempoNB4UxiqJg">
                   <tags>Minimized</tags>
                   <tags>MinimizedByZoom</tags>
@@ -53,7 +53,7 @@
                   <children xsi:type="advanced:Placeholder" xmi:id="_3lVQ8Pm5EempoNB4UxiqJg" elementId="org.polarsys.capella.core.ui.fastlinker.view" ref="_3lWfofm5EempoNB4UxiqJg"/>
                 </children>
               </children>
-              <children xsi:type="basic:PartSashContainer" xmi:id="_3lVQ8fm5EempoNB4UxiqJg" containerData="6466" selectedElement="_3lVQ8vm5EempoNB4UxiqJg">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_3lVQ8fm5EempoNB4UxiqJg" containerData="7576" selectedElement="_3lVQ8vm5EempoNB4UxiqJg">
                 <children xsi:type="advanced:Placeholder" xmi:id="_3lVQ8vm5EempoNB4UxiqJg" elementId="org.eclipse.ui.editorss" containerData="7463" ref="_3lV4gPm5EempoNB4UxiqJg">
                   <tags>Maximized</tags>
                 </children>
@@ -105,7 +105,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_3lV4gPm5EempoNB4UxiqJg" elementId="org.eclipse.ui.editorss" selectedElement="_3lV4gfm5EempoNB4UxiqJg">
-      <children xsi:type="basic:PartStack" xmi:id="_3lV4gfm5EempoNB4UxiqJg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_3lV4gvm5EempoNB4UxiqJg">
+      <children xsi:type="basic:PartStack" xmi:id="_3lV4gfm5EempoNB4UxiqJg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_3lV4jfm5EempoNB4UxiqJg">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
@@ -116,7 +116,6 @@
           <tags>org.eclipse.amalgam.explorer.activity.ui.editor.activityExplorerEditor</tags>
           <tags>removeOnHide</tags>
           <tags>activeOnClose</tags>
-          <tags>active</tags>
           <menus xsi:type="menu:PopupMenu" xmi:id="_3lV4g_m5EempoNB4UxiqJg" elementId="org.polarsys.capella.core.transition.common.ui.diffmerge">
             <tags>menuContribution:popup</tags>
             <tags>popup:org.polarsys.capella.core.transition.common.ui.diffmerge</tags>
@@ -155,7 +154,7 @@
           </menus>
         </children>
         <children xsi:type="basic:Part" xmi:id="_3lV4jPm5EempoNB4UxiqJg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[LFBD] Satellite Bus Top Level Logical Function" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Satellite Bus Top Level Logical Function&quot; partName=&quot;[LFBD] Satellite Bus Top Level Logical Function&quot; title=&quot;[LFBD] Satellite Bus Top Level Logical Function&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Root Logical Function&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_Kpxp0OcEEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[LFBD] Satellite Bus Top Level Logical Function&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_KpzfAecEEemykdp9upuPRw&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Satellite Bus Top Level Logical Function&quot; partName=&quot;[LFBD] Satellite Bus Top Level Logical Function&quot; title=&quot;[LFBD] Satellite Bus Top Level Logical Function&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Satellite Bus Top Level Logical Function&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_Kpxp0OcEEemykdp9upuPRw&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[LFBD] Satellite Bus Top Level Logical Function&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_KpzfAecEEemykdp9upuPRw&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
           <tags>removeOnHide</tags>
@@ -165,6 +164,8 @@
           <tags>Editor</tags>
           <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
           <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
           <menus xsi:type="menu:PopupMenu" xmi:id="_3lV4jvm5EempoNB4UxiqJg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
             <tags>menuContribution:popup</tags>
             <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
@@ -176,6 +177,34 @@
         </children>
         <children xsi:type="basic:Part" xmi:id="_3lV4kPm5EempoNB4UxiqJg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[LFBD] Operator Functional Breakdown" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Operator Functional Breakdown&quot; partName=&quot;[LFBD] Operator Functional Breakdown&quot; title=&quot;[LFBD] Operator Functional Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Operator Functional Breakdown&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_WauIUPgbEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[LFBD] Operator Functional Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_Wav9gfgbEemh__FnCpdmOg&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
+          <tags>removeOnHide</tags>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_bUOP4Pp2Eems3_5BdagnXg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_bU1T4Pp2Eems3_5BdagnXg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_gNdPsPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_gNsgQPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
+          </menus>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_3lWfTfm5EempoNB4UxiqJg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[LFBD] Attitude &amp; Orbit Control Functional Breakdown" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; partName=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; title=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_BUcmQPgoEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_BUebcfgoEemh__FnCpdmOg&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_K96asPp0Eems3_5BdagnXg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[LFBD] Power Management Logical Function" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Power Management Logical Function&quot; partName=&quot;[LFBD] Power Management Logical Function&quot; title=&quot;[LFBD] Power Management Logical Function&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Power Management Logical Function&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_3zKUsPgQEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[LFBD] Power Management Logical Function&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_3zPNMfgQEemh__FnCpdmOg&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
           <tags>removeOnHide</tags>
@@ -405,6 +434,18 @@
             <tags>menuContribution:popup</tags>
             <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
           </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_5vaHUPpzEems3_5BdagnXg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_5wJuMPpzEems3_5BdagnXg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_9ySt8PpzEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
         </children>
         <children xsi:type="basic:Part" xmi:id="_3lWfNfm5EempoNB4UxiqJg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[FS] New Attitude &amp; Orbit Goal Scenario" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot; partName=&quot;[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot; title=&quot;[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_00gTwPgnEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[FS] New Attitude &amp;amp; Orbit Goal Scenario&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_00iwAfgnEemh__FnCpdmOg&quot;/>&#xA;&lt;/editor>"/>
@@ -503,12 +544,170 @@
             <tags>menuContribution:popup</tags>
             <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
           </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_3lWfTfm5EempoNB4UxiqJg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[LFBD] Attitude &amp; Orbit Control Functional Breakdown" iconURI="platform:/plugin/org.eclipse.sirius.diagram.ui/icons/DDiagram.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID&quot; name=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; partName=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; title=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; tooltip=&quot;platform:/resource/top-level/top-level.aird/[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot;>&#xA;&lt;input REP_DESC_URI=&quot;platform:/resource/top-level/top-level.aird#_BUcmQPgoEemh__FnCpdmOg&quot; SESSION_RESOURCE_URI=&quot;platform:/resource/top-level/top-level.aird&quot; bundle=&quot;org.eclipse.sirius.ui&quot; class=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInput&quot; factoryID=&quot;org.eclipse.sirius.ui.business.api.session.SessionEditorInputFactory&quot; name=&quot;[LFBD] Attitude &amp;amp; Orbit Control Functional Breakdown&quot; uri=&quot;platform:/resource/top-level/top-level.aird#_BUebcfgoEemh__FnCpdmOg&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.sirius.diagram.ui.part.SiriusDiagramEditorID</tags>
-          <tags>removeOnHide</tags>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_kEfaYPpwEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_sd5VUPpwEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_yRE04PpwEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_yRTeYPpwEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_1_gOcPpwEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_1_3a0PpwEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_CTlPMPpxEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_ZpT_gPpxEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_dz8M4PpxEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_d0OgwPpxEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_z67SIPpxEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_2PhK8PpxEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_V3mzAPpyEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_rIdhgPpyEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_zHWDoPpyEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_20ttQPpyEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_IVKsQPpzEems3_5BdagnXg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.elements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_IVk78PpzEems3_5BdagnXg" elementId="org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.core.ui.toolkit.dialogs.confirmDelete.referencingElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_KMKDEPpzEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_WW1QMPpzEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_gfBoMPpzEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_gfW_YPpzEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_pgvgUPpzEems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_fx2uQPp1Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_nEHa8Pp1Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_vNhyEPp1Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_x0hCcPp1Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_zu1aEPp1Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_4U7bcPp1Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_6uJVkPp1Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_91h9QPp1Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_ARUDMPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_DgCB8Pp2Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_FmszgPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_J9nwcPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_L75bAPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_NLzjsPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_PXQuoPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_RS9mUPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.leftPane</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_RTPTIPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.transferTreeListElements.rightPane</tags>
+          </menus>
+          <menus xsi:type="menu:PopupMenu" xmi:id="_T4MjMPp2Eems3_5BdagnXg" elementId="org.polarsys.capella.common.ui.toolkit.dialogs.selectElements">
+            <tags>menuContribution:popup</tags>
+            <tags>popup:org.polarsys.capella.common.ui.toolkit.dialogs.selectElements</tags>
+          </menus>
         </children>
       </children>
     </sharedElements>
@@ -990,40 +1189,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3lWfxvm5EempoNB4UxiqJg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWfx_m5EempoNB4UxiqJg" elementId="new.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWfyPm5EempoNB4UxiqJg" elementId="newWizardDropDown">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWfyfm5EempoNB4UxiqJg" elementId="new.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWfyvm5EempoNB4UxiqJg" elementId="save.group" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWfy_m5EempoNB4UxiqJg" elementId="save">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWfzPm5EempoNB4UxiqJg" elementId="saveAll">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWfzfm5EempoNB4UxiqJg" elementId="save.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3lWfzvm5EempoNB4UxiqJg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_3lcABfm5EempoNB4UxiqJg"/>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWfz_m5EempoNB4UxiqJg" elementId="print.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf0Pm5EempoNB4UxiqJg" elementId="build.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf0fm5EempoNB4UxiqJg" elementId="build.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf0vm5EempoNB4UxiqJg" elementId="additions">
-          <tags>Opaque</tags>
-        </children>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_J4sb4PpwEems3_5BdagnXg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_3lcABfm5EempoNB4UxiqJg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3lWf0_m5EempoNB4UxiqJg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1031,36 +1197,9 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3lWf4Pm5EempoNB4UxiqJg" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf4fm5EempoNB4UxiqJg" elementId="debug">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf4vm5EempoNB4UxiqJg" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf4_m5EempoNB4UxiqJg" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf5Pm5EempoNB4UxiqJg" elementId="org.eclipse.egf.producer.ui.run.actionSet.global.activity.action">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf5fm5EempoNB4UxiqJg" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3lWf5vm5EempoNB4UxiqJg" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf5_m5EempoNB4UxiqJg" elementId="Search">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf6Pm5EempoNB4UxiqJg" elementId="org.eclipse.egf.core.ui.fcore.actionSet.open.fcore.action">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf6fm5EempoNB4UxiqJg" elementId="org.eclipse.egf.model.editor.activity.actionSet.open.activity.action">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf6vm5EempoNB4UxiqJg" elementId="org.eclipse.search.OpenSearchDialogPage">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3lWf6_m5EempoNB4UxiqJg" elementId="group.nav" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1068,35 +1207,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3lWf7fm5EempoNB4UxiqJg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf7vm5EempoNB4UxiqJg" elementId="history.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf7_m5EempoNB4UxiqJg" elementId="group.application" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf8Pm5EempoNB4UxiqJg" elementId="backardHistory">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf8fm5EempoNB4UxiqJg" elementId="forwardHistory">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf8vm5EempoNB4UxiqJg" elementId="pin.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3lWf8_m5EempoNB4UxiqJg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_3lb_iPm5EempoNB4UxiqJg"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3lWf9Pm5EempoNB4UxiqJg" elementId="org.polarsys.capella.core.ui.search.findreplace" visible="false" iconURI="platform:/plugin/org.polarsys.capella.core.ui.search/icons/search.gif" command="_3lcl3Pm5EempoNB4UxiqJg">
-          <persistedState key="IIdentifier" value="org.polarsys.capella.core.ui.search/org.polarsys.capella.core.ui.search.findreplace"/>
-          <visibleWhen xsi:type="ui:CoreExpression" xmi:id="_3lWf9fm5EempoNB4UxiqJg" coreExpressionId="programmatic.value"/>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf9vm5EempoNB4UxiqJg" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf9_m5EempoNB4UxiqJg" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lWf-Pm5EempoNB4UxiqJg" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition">
-          <tags>Opaque</tags>
-        </children>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_J4x7cPpwEems3_5BdagnXg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_3lb_iPm5EempoNB4UxiqJg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3lWf-fm5EempoNB4UxiqJg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1108,12 +1219,6 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3lXGIvm5EempoNB4UxiqJg" elementId="org.eclipse.ui.workbench.help" visible="false">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lXGI_m5EempoNB4UxiqJg" elementId="group.help">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_3lXGJPm5EempoNB4UxiqJg" elementId="group.application" visible="false">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_3lXGJfm5EempoNB4UxiqJg" elementId="PerspectiveSpacer" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
         <tags>stretch</tags>
@@ -2499,6 +2604,53 @@
     <tags>View</tags>
     <tags>categoryTag:Property values</tags>
   </descriptors>
+  <descriptors xmi:id="_HqHEcfpwEems3_5BdagnXg" elementId="org.polarsys.capella.vp.price.view" label="price" iconURI="platform:/plugin/org.polarsys.capella.vp.price.af/icons/view.gif" tooltip="" category="Kitalpha" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.polarsys.kitalpha.ad.viewpoint.ui.views.ViewpointView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.polarsys.capella.vp.price.af"/>
+    <tags>View</tags>
+    <tags>categoryTag:Kitalpha</tags>
+  </descriptors>
+  <descriptors xmi:id="_HqKHwPpwEems3_5BdagnXg" elementId="org.polarsys.capella.vp.perfo.view" label="perfo" iconURI="platform:/plugin/org.polarsys.capella.vp.perfo.af/icons/view.gif" tooltip="" category="Kitalpha" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.polarsys.kitalpha.ad.viewpoint.ui.views.ViewpointView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.polarsys.capella.vp.perfo.af"/>
+    <tags>View</tags>
+    <tags>categoryTag:Kitalpha</tags>
+  </descriptors>
+  <descriptors xmi:id="_HqLV4PpwEems3_5BdagnXg" elementId="org.polarsys.capella.vp.mass.view" label="mass" iconURI="platform:/plugin/org.polarsys.capella.vp.mass.af/icons/view.gif" tooltip="" category="Kitalpha" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.polarsys.kitalpha.ad.viewpoint.ui.views.ViewpointView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.polarsys.capella.vp.mass.af"/>
+    <tags>View</tags>
+    <tags>categoryTag:Kitalpha</tags>
+  </descriptors>
+  <descriptors xmi:id="_HqUf0PpwEems3_5BdagnXg" elementId="org.polarsys.capella.filtering.tools.view.DiagCriteriaVisibilityView" label="Diagram Filtering Criteria Visibility" iconURI="platform:/plugin/org.polarsys.capella.filtering.tools/icons/criteriaAssigning.png" tooltip="" category="Capella" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.polarsys.capella.filtering.tools.view.DiagCriteriaVisibilityView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.polarsys.capella.filtering.tools"/>
+    <tags>View</tags>
+    <tags>categoryTag:Capella</tags>
+  </descriptors>
+  <descriptors xmi:id="_HqW8EPpwEems3_5BdagnXg" elementId="org.polarsys.capella.filtering.view" label="Filtering" iconURI="platform:/plugin/org.polarsys.capella.filtering.af/icons/view.gif" tooltip="" category="Kitalpha Viewpoints" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.polarsys.kitalpha.ad.viewpoint.ui.views.ViewpointView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.polarsys.capella.filtering.af"/>
+    <tags>View</tags>
+    <tags>categoryTag:Kitalpha Viewpoints</tags>
+  </descriptors>
+  <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
+    <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+      <tags>glue</tags>
+      <tags>move_after:PerspectiveSpacer</tags>
+      <tags>SHOW_RESTORE_MENU</tags>
+    </children>
+    <children xsi:type="menu:ToolControl" xmi:id="_8tJPcF9tEeO-yojH_y4TJA" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
+      <tags>move_after:Spacer Glue</tags>
+      <tags>HIDEABLE</tags>
+      <tags>SHOW_RESTORE_MENU</tags>
+    </children>
+    <children xsi:type="menu:ToolControl" xmi:id="_9LgmcF9tEeO-yojH_y4TJA" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+      <tags>glue</tags>
+      <tags>move_after:SearchField</tags>
+      <tags>SHOW_RESTORE_MENU</tags>
+    </children>
+  </trimContributions>
   <commands xmi:id="_3lbXvPm5EempoNB4UxiqJg" elementId="org.eclipse.jdt.ui.correction.inlineLocal.assist" commandName="Quick Assist - Inline local variable" description="Invokes quick assist and selects 'Inline local variable'" category="_3lcnJPm5EempoNB4UxiqJg"/>
   <commands xmi:id="_3lbXvfm5EempoNB4UxiqJg" elementId="org.eclipse.ui.edit.text.select.pageUp" commandName="Select Page Up" description="Select to the top of the page" category="_3lcnB_m5EempoNB4UxiqJg"/>
   <commands xmi:id="_3lbXvvm5EempoNB4UxiqJg" elementId="org.eclipse.ui.edit.text.toggleWordWrap" commandName="Toggle Word Wrap" description="Toggle word wrap in the current text editor" category="_3lcnA_m5EempoNB4UxiqJg"/>
