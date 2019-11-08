@@ -1,7 +1,7 @@
-#Tue Oct 29 21:23:42 CET 2019
+#Fri Nov 08 09:25:29 CET 2019
 rulergrid.snaptogeometry=false
-viewport.x=0
-zoom=0.35101744186046513
+viewport.x=325
+zoom=0.75
 print.margin.right=0.5
 rulergrid.rulerunit=2
 rulergrid.snaptogrid=false
