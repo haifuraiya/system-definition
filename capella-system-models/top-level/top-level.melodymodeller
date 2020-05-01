@@ -7577,7 +7577,52 @@
               sourceElement="#6ef93670-8581-49d9-bbb1-87f20fabc286"/>
         </ownedCapabilityRealizations>
         <ownedCapabilityRealizations xsi:type="org.polarsys.capella.core.data.la:CapabilityRealization"
-            id="7775c418-94e6-4a8a-9d7d-e8bf28ebc580" name="TMTC Communication" summary="Telemetry &amp; Telecommmand (TMTC) communication from earth to ground and back.">
+            id="f42337af-292e-4ab0-8a17-c98f4b96f867" name="GEO Orbit Circularisation">
+          <ownedAbstractCapabilityRealizations xsi:type="org.polarsys.capella.core.data.interaction:AbstractCapabilityRealization"
+              id="242c2853-7484-4eb6-ab5e-e3be9c6c2120" targetElement="#0ad091e5-79c6-41d2-b963-8dbf62743e2e"
+              sourceElement="#f42337af-292e-4ab0-8a17-c98f4b96f867"/>
+        </ownedCapabilityRealizations>
+        <ownedCapabilityRealizations xsi:type="org.polarsys.capella.core.data.la:CapabilityRealization"
+            id="136a148e-232a-4fa7-b209-f9a3c2d46568" name="Stable GEO Operations">
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="feeae637-38fa-4e5d-a5df-ed579f9985b9" targetElement="#27b45beb-1ba3-4084-8ec9-2a0ef0d8c96b"
+              sourceElement="#7e78e265-8757-4cd1-8829-577e1ad64b22"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="7e78e265-8757-4cd1-8829-577e1ad64b22" involved="#e5fdd9ef-ca0a-4a4f-a515-932c948a86a7"/>
+          <ownedAbstractCapabilityRealizations xsi:type="org.polarsys.capella.core.data.interaction:AbstractCapabilityRealization"
+              id="5075cd28-f25d-4f35-8974-7f283a828454" targetElement="#70d74a89-5c36-48dc-ab94-1d4eca221a96"
+              sourceElement="#136a148e-232a-4fa7-b209-f9a3c2d46568"/>
+        </ownedCapabilityRealizations>
+        <ownedCapabilityRealizations xsi:type="org.polarsys.capella.core.data.la:CapabilityRealization"
+            id="7775c418-94e6-4a8a-9d7d-e8bf28ebc580" name="TMTC Communication" summary="Telemetry &amp; Telecommmand (TMTC) communication from earth to ground and back."
+            description="&lt;div>The satellite system needs to be capable of generating, storing and distributing the neccessary power to facilitate the operation of the payloads.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;h2>Power Generation&lt;/h2>&#xA;&#xA;&lt;h4>Solar Panel Axes Power Generation Efficiencies&lt;/h4>&#xA;&#xA;&lt;div>A Scilab script was created using the CelestLab orbital modelling toolbox from CNES. &amp;nbsp;The following analysis was performed for a satellite in geostationary orbit at an alitude of 35,786 km.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>Due to the nature of a geostationary orbit similar orbital conditions will be experienced each day. &amp;nbsp;However, due to the tilt of the earths orbit the angles of the solar panels vary of the year. &amp;nbsp;To get some appreciation of this the power generated for each of the six axes was simulated over a day - the results were then combined over a year to form a heat map.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>The coordinates are referenced to the earths intertial frame. &amp;nbsp;A negative z panel points nadir into the earths surface. &amp;nbsp;A positive x panel is aligned with the easterly tangent at the surface of the earth directly below the satellite. &amp;nbsp;Similarly a positive y panel points northward from the point on the earth intersected by the radius of the satellites orbit.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/generation_over_year_heatmap-x_positive.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/generation_over_year_heatmap-x_negative.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/generation_over_year_heatmap-y_positive.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/generation_over_year_heatmap-y_negative.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/generation_over_year_heatmap-z_positive.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/generation_over_year_heatmap-z_negative.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>It can be seen that the x and z axes exhibit the typical cosine reponse over the day with some slight variation over the year. &amp;nbsp;The maximum daily power generated is 90 - 100% of the direct sunlight available. &amp;nbsp;The y axes are never pointed directly at the sun so do not ever obtain an efficiency above 40%, because the angle is tending towards orthogonal it experiences less daily variation but greater yearly variation. &amp;nbsp;Finally the effect of eclipses which are experienced for part of the year can be seen at the 18 hour mark on the affected panels with less intensity.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>The same data shown above has been condensed where the average power generated each day on each axis is plotted over the year. &amp;nbsp;Here the effect of eclipse can be clearly seen on the affected axes. &amp;nbsp;The y axes are heavily affected by the tilt of the earth with whole six month periods where no power is generated.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/generation_over_year_efficiency.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;h4>Solar Panel Configuration Power Generation Modelling&lt;/h4>&#xA;&#xA;&lt;div>To model the power generated with a realistic solar panel configuration the script used the following parameters:&lt;/div>&#xA;&#xA;&lt;ul>&#xA;&#x9;&lt;li>SpectroLab XTJ Prime Cells&lt;/li>&#xA;&#x9;&lt;li>X Positive - Double deployed 6U panel plus 3U body panel, 47 cells in total&lt;/li>&#xA;&#x9;&lt;li>X Negative - Double deployed 6U panel plus 3U body panel, 47 cells in total&lt;/li>&#xA;&#x9;&lt;li>Y Positive - No cells&lt;/li>&#xA;&#x9;&lt;li>Y Negative - No cells&lt;/li>&#xA;&#x9;&lt;li>Z Positive - Double deployed 6U panels, 40 cells in total&lt;/li>&#xA;&#x9;&lt;li>Z Negative - Double deployed 6U panels, 40 cells in total&lt;/li>&#xA;&lt;/ul>&#xA;&#xA;&lt;div>The effect of radiation was also included in the simulation by linearly interpolating the 5 years in GEO degradation value provided by Spectrolab.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>Here the average powered generated per day day is plotted for each panel:&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/generation_over_year_power-individual_panels.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>The total power average power generated by the configuration each day is plotted below. &amp;nbsp;Note the slight loss of power generation over the year due to radiation effects.&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/generation_over_year_power-total.png&quot; />&lt;/div>&#xA;&#xA;&lt;h2>Power Management&lt;/h2>&#xA;&#xA;&lt;div>Here energy storage and loads will be added to the power generation above to get a feel for a representative power balance.&lt;/div>&#xA;&#xA;&lt;h4>Power Balance Simulation&lt;/h4>&#xA;&#xA;&lt;div>To perform the power balance simulation the following parameters were used:&lt;/div>&#xA;&#xA;&lt;ul>&#xA;&#x9;&lt;li>The same panel configuration as above: 47 cells +/- x axis, 0 cells +/- y axis, 40 cells +/- axis&lt;/li>&#xA;&#x9;&lt;li>120 Watt hour battery&lt;/li>&#xA;&#x9;&lt;li>40 Watt continual satellite power load&lt;/li>&#xA;&lt;/ul>&#xA;&#xA;&lt;div>The continual 40 W load is not very accurate but gives a starting point.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>The following non-idealities in the system are modelled:&lt;/div>&#xA;&#xA;&lt;ul>&#xA;&#x9;&lt;li>Solar cell efficiency degradation due to radiation induced displacement damage - updated per day&lt;/li>&#xA;&#x9;&lt;li>Solar array regulator efficiency at 90% - static&lt;/li>&#xA;&#x9;&lt;li>Battery cell degradation due to charge/discharge cycle - updated per 30 seconds&lt;/li>&#xA;&#x9;&lt;li>Load power increase due to TID induced leakage - updated per day&lt;/li>&#xA;&lt;/ul>&#xA;&#xA;&lt;div>The impact of the thermal enviroment is not modelled which can have a large impact on solar cell and battery performance. &amp;nbsp;This can be added later once a thermal model is developed.&lt;/div>&#xA;&#xA;&lt;div>&#xA;&lt;h4>Single Day Power Performance&lt;/h4>&#xA;&lt;/div>&#xA;&#xA;&lt;div>To start, a single days power generation, storage and distribution is modelled.&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/power_generation_dod_day_120whr_40W.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>It can be seen that this scenario is modelled at a time of year when an eclipse occurs. &amp;nbsp;The satellite maintains net positive power for almost all of the day where the battery is fully charged - 0% depth of discharge. &amp;nbsp;As the satellite enters eclipse power generation stops and the 40 W load is drawn directly from the battery for the hour and a half eclipse period. &amp;nbsp;This leads to significant depth of discharge - 40%. &amp;nbsp;Following the eclipse the battery is recharged quickly due to the large power surplus.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>&#xA;&lt;div>&#xA;&lt;h4>Five Year Power Performance&lt;/h4>&#xA;&lt;/div>&#xA;To investigate the performance of the power system over the lifetime of the satellite longer time periods are considerd. &amp;nbsp;Here simulations are performed over five years, the simulation is updated every 30 seconds but the data is reduced to one day snapshots, usually by averaging if not specified otherwise.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>The power generated and load on the system progresses over the five year period as seen below:&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/power_generation_load_5years_120whr_40W.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>Here it can be seen that the radiation reduces the power generated while simultaneously increasing the load power. &amp;nbsp;In this configuration it is clear that there is a massive power surplus is and less solar panels could be used or larger loads could be supported.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>The battery depth of discharge is considered next where the minimum, average and maximum discharge over each day is plotted.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/battery_dod_5years_120whr_40W.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>It can be seen that everytime an eclipse occurs the daily minumum discharge is considerable. &amp;nbsp;The extent of the daily discharge increases due to the increased load power due to radiation and the decreasing battery capacity due to discharge cycling. &amp;nbsp;It can be seen that in the current configuration the satellites power budget is violated after 4.5 years and the undervoltage protection would kick in.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>The battery capacity over the period is presented here:&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/battery_capacity_5years_120whr_40W.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>Everytime an eclipse period is entered there is considerable battery charging and discharging action which drops the capacity of the battery. &amp;nbsp;During the rest of the year the capacity does not drop as the battery is maintained at maximum charge. &amp;nbsp;Any loss of battery capacity due to static ageing is not considered in this model.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;h4>&amp;nbsp;&lt;/h4>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;">
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="46565cc2-abea-41d7-a8b7-3b6491979a5f" targetElement="#7c3b20ec-c89c-4573-99fa-4dc7a450c46c"
+              sourceElement="#dd9aabe5-ec00-4d90-97fa-15680a9d8d05"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="acab85f1-f0b0-44de-9483-380f877666a1" targetElement="#50d43317-4dcb-42cd-98b2-34a35bf0a3ec"
+              sourceElement="#6d1ae4f9-0215-43e2-94dc-05df7db6671d"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="6ddcb6c2-bca9-4e3e-afa2-f79fa22d1682" targetElement="#3864bc68-e976-45fc-b5a2-eb20d9655724"
+              sourceElement="#c7f8002c-4119-46a7-a0ec-c0fcc8c5f7d9"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="3e2d9b8a-a21d-492e-af58-3ac5358a1c45" targetElement="#8d93fabc-ba55-48f6-b53d-2134a2675ff3"
+              sourceElement="#ff3e72ad-1b62-4baa-8837-2ed91e4ac8aa"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="bcc6c956-0dc0-4469-b2da-a9468ed202f6" targetElement="#b2578d50-dfa4-4fa4-a854-1bfb1bcd7159"
+              sourceElement="#f992a445-7374-4257-bbd1-637a90c724ba"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="44e7e008-ce4e-45ab-9a9b-ad25c9be2d3e" targetElement="#06085fd9-d1d3-43f6-a2e1-019334b409eb"
+              sourceElement="#1ea00915-f5ae-4833-b1c2-3ebf18f9749c"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="c0e7d680-05fa-4cbc-b527-03e32322190e" targetElement="#daf88f13-5c95-491c-9933-79f456c8cbe3"
+              sourceElement="#f52348c5-a40d-474d-9b1e-d891f295bd1e"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="96651d17-21eb-4812-9726-6cabafb28b4d" targetElement="#172c3150-b08c-4281-b9d8-107f0fd1bf20"
+              sourceElement="#4886d8f9-2db1-44e6-9788-36c690f4ade5"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="2c439755-ad99-4178-9d3f-7b5a16bc103e" targetElement="#98d0fada-00dc-43af-9da0-1dc8bd7c148e"
+              sourceElement="#81b9a0d4-2229-431f-a2f3-5a88d206afe1"/>
           <ownedScenarios xsi:type="org.polarsys.capella.core.data.interaction:Scenario"
               id="fd422176-e4ac-4fd3-af97-18c434cbc225" name="[FS] Nominal TMTC Scenario"
               kind="FUNCTIONAL">
@@ -8477,6 +8522,24 @@
               id="15fc756e-8e6b-4239-90db-d116c7847b5c" involved="#19626203-6b9c-4ce6-840c-6c2feb19c32e"/>
           <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
               id="85b3f231-8dee-40be-9a00-62f82fa67a89" involved="#88d1f08b-10b9-47f3-a2b5-9efe5d8e3b9e"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="dd9aabe5-ec00-4d90-97fa-15680a9d8d05" involved="#f19dfa5e-39e5-4e20-8e50-b3630dd76763"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="6d1ae4f9-0215-43e2-94dc-05df7db6671d" involved="#b82a309e-df08-45c6-9b63-78530a8acb3b"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="c7f8002c-4119-46a7-a0ec-c0fcc8c5f7d9" involved="#77567c45-037b-492a-ba97-8e3427e8941e"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="ff3e72ad-1b62-4baa-8837-2ed91e4ac8aa" involved="#721c7262-8b82-4a9f-9ed3-8d789d1dac74"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="f992a445-7374-4257-bbd1-637a90c724ba" involved="#97ce00a8-29e5-4f6d-8742-05be16f77f2f"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="1ea00915-f5ae-4833-b1c2-3ebf18f9749c" involved="#ea1dff3d-a60e-4c07-a0d6-6eebccc0898d"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="f52348c5-a40d-474d-9b1e-d891f295bd1e" involved="#0bcdb857-b676-4897-9f35-0828ee690781"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="4886d8f9-2db1-44e6-9788-36c690f4ade5" involved="#844a0774-5b9e-4d99-8ecb-fa445e87dd53"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="81b9a0d4-2229-431f-a2f3-5a88d206afe1" involved="#2d30929c-59b2-434c-8d1a-b1bb1e85f2ae"/>
           <ownedAbstractCapabilityRealizations xsi:type="org.polarsys.capella.core.data.interaction:AbstractCapabilityRealization"
               id="9dcd88a1-3e42-4ffa-92d9-f181366169dd" targetElement="#7bf343ec-3eb6-4c78-b21f-ccebaa290269"
               sourceElement="#7775c418-94e6-4a8a-9d7d-e8bf28ebc580"/>
@@ -8954,6 +9017,95 @@
             id="6c5f0f0d-1e47-4b98-a460-971a3cc651ca" name="Payload Control">
           <ownedScenarios xsi:type="org.polarsys.capella.core.data.interaction:Scenario"
               id="3337c9ff-fdb8-403f-be5f-89c11d63962b" name="Scenario" kind="FUNCTIONAL"/>
+        </ownedCapabilityRealizations>
+        <ownedCapabilityRealizations xsi:type="org.polarsys.capella.core.data.la:CapabilityRealization"
+            id="d8b8c23f-67dd-4bc4-9a67-6999b17ba5f4" name="End of Life Removal">
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="8bf0d983-af87-427f-a730-40d97a2dd7b3" targetElement="#d9067fd4-7325-44c1-a306-cedc2232e2cc"
+              sourceElement="#8019e386-1495-46d3-8980-347851a68dcc"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="c2d700cd-0b53-44ef-8694-c456ce7101ef" targetElement="#706c10f3-5df0-4b79-92ec-3c713d4dd87e"
+              sourceElement="#a17df477-fc5d-40ca-8c6d-0709ac3d56ed"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="8efb2f2c-e960-4776-8ed9-d95d3106d2a0" targetElement="#b65a200b-b421-4aa9-8a8b-3e194816eb31"
+              sourceElement="#464756c9-92d3-417b-ada1-5c75e3d54357"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="135bf4e3-79a0-4114-8fb9-383a59b60d27" targetElement="#f1669ddf-070f-47fc-a9b3-2ad6492eb2f5"
+              sourceElement="#27e1b8d4-c254-493f-9c50-d9f9b77f6bcf"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="fcfa91ef-fe4f-4bf8-8386-9ce065fbc268" targetElement="#c5fef4f2-0073-42a4-b4bb-e822747a24b9"
+              sourceElement="#074b43e3-f670-47bb-9893-1f74d09bd322"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="bc29dbdc-b08f-4a7c-af09-5410f03c2d08" targetElement="#0aed5c86-ae6e-4b56-a359-1e18963f1266"
+              sourceElement="#8aca8821-d88c-4399-bab2-6f8095008c2c"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="8019e386-1495-46d3-8980-347851a68dcc" involved="#7ef30625-d636-4e26-b224-4293853a2757"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="a17df477-fc5d-40ca-8c6d-0709ac3d56ed" involved="#177c7bfb-6677-4d73-8dfa-d743ec9892ac"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="464756c9-92d3-417b-ada1-5c75e3d54357" involved="#ba69a31a-f13b-4d4d-8a5f-1d5414cc02fc"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="27e1b8d4-c254-493f-9c50-d9f9b77f6bcf" involved="#d22b4c1f-0586-4b55-ba5c-d020a2d31a89"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="074b43e3-f670-47bb-9893-1f74d09bd322" involved="#6ab05db1-fb99-4c92-8f96-a77a13020dc0"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="8aca8821-d88c-4399-bab2-6f8095008c2c" involved="#3dcf6b5c-c78d-4133-8f47-cf1150f4a287"/>
+          <ownedAbstractCapabilityRealizations xsi:type="org.polarsys.capella.core.data.interaction:AbstractCapabilityRealization"
+              id="8d6c03fc-d500-41f8-8c8c-7598b5df43e9" targetElement="#d7e0a819-0dff-4b78-91cd-db8e1f1b4c76"
+              sourceElement="#d8b8c23f-67dd-4bc4-9a67-6999b17ba5f4"/>
+        </ownedCapabilityRealizations>
+        <ownedCapabilityRealizations xsi:type="org.polarsys.capella.core.data.la:CapabilityRealization"
+            id="5d7548ec-ce48-42d0-a7b2-3990f7f4918e" name="Thermal Management">
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="2c218096-595d-4cb9-a7c8-5efdcf3e9aa8" targetElement="#fca0c2a5-b98a-4f62-965b-140c7b168adb"
+              sourceElement="#d39bb65b-49b0-42c0-8d9b-e02e367ff276"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="0eb02a8a-e679-426b-8f81-1c20103f12f5" targetElement="#5b0be5b2-5bbb-42c6-a570-279e4f03c778"
+              sourceElement="#5868c1fd-2697-40fb-a15e-d375b45be48b"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="8b622da1-18f1-4c71-a849-2bd9d191c9b5" targetElement="#cf35827c-1248-4930-b791-5bb008c47fb8"
+              sourceElement="#3fdf8975-6ae4-4b7b-9d9b-883fd21a8e83"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="bcd2360a-6d95-4b48-8038-775f1f8f22b1" targetElement="#6e8c7a07-2ad1-4782-a6d4-270aec2c2eb8"
+              sourceElement="#38d0820e-a983-4393-8489-304c625f3a67"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="d39bb65b-49b0-42c0-8d9b-e02e367ff276" involved="#c796eefd-07b4-467b-8358-fbf843972106"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="5868c1fd-2697-40fb-a15e-d375b45be48b" involved="#46c50811-f2db-425f-b165-477f649f77ef"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="3fdf8975-6ae4-4b7b-9d9b-883fd21a8e83" involved="#b82a309e-df08-45c6-9b63-78530a8acb3b"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="38d0820e-a983-4393-8489-304c625f3a67" involved="#bb692043-f22e-4964-a027-9e44feeebcf0"/>
+          <ownedAbstractCapabilityRealizations xsi:type="org.polarsys.capella.core.data.interaction:AbstractCapabilityRealization"
+              id="93ca0674-bac2-4f67-82bf-570f49018e09" targetElement="#9bee3dab-d9a1-4afc-b105-be7c4e8598e6"
+              sourceElement="#5d7548ec-ce48-42d0-a7b2-3990f7f4918e"/>
+        </ownedCapabilityRealizations>
+        <ownedCapabilityRealizations xsi:type="org.polarsys.capella.core.data.la:CapabilityRealization"
+            id="bfe3fc0c-ab49-4c30-b891-0b35f0686bcf" name="Radiation Resilience"
+            description="&lt;h2>Total Ionizing Dose (TID)&lt;/h2>&#xA;&#xA;&lt;div>To gain a first impression of the expected radiation experienced by the satellite components the SPENVIS enviroment was used to obtain TID figures. &amp;nbsp;The simulation was performed for a satellite in geostationary orbit with a lifetime of 5 years. &amp;nbsp;The material was defined as silicon dioxide - the dielectric material in CMOS transistors which leads to threshold voltage shifts.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>The expected TID is shown below for differing aluminium shielding thicknesses with the separate radiation sources shown as well as the total expected dosage.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>&lt;img src=&quot;linked_images/tid_vs_shielding_5years_geo.png&quot; />&lt;/div>&#xA;&#xA;&lt;div>With no shielding the dosage is very high - greater than 10 Mrad - which is beyod COTS component capabilities. &amp;nbsp;However it can be seen that after 3.5 mm of shielding the expected dosage is reduced to 10 krad which is certainly possible for some COTS components.&lt;/div>&#xA;&#xA;&lt;div>&amp;nbsp;&lt;/div>&#xA;&#xA;&lt;div>This highlights the importance of shieling and indeed points that contigous metal casing is definitely needed - whether this is achieved on a satellite level or sub-system level remains to be seen.&lt;/div>&#xA;">
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="ea466827-d5fa-4f7d-8da4-fd2edea6ebf7" targetElement="#2a13b915-b47d-463e-9968-0ba782e63bdf"
+              sourceElement="#9fb2b468-b7f7-4577-8024-ab10fecc4b82"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="50530878-4ac8-4e62-b191-7ddae8d8cdbe" targetElement="#b1ed0277-6792-4580-8f2b-8f9e65c68d7b"
+              sourceElement="#25f86451-951c-4be0-9e9a-26faf77fc9c4"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="9e0e91c5-4e80-46f2-8397-f0845cb6f5ba" targetElement="#dd7dc5da-3939-4cb3-9def-2c90e00f2637"
+              sourceElement="#5b3f2c5f-0b3a-4ae0-9558-7a328a5fc50d"/>
+          <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
+              id="cc2fdb5b-8e22-45d4-9568-8cd75f5243fa" targetElement="#bc37fd9c-f5b8-45f4-a36e-42c0cbca0856"
+              sourceElement="#6e60f1ad-1402-40e5-a9f3-bd940ecdb9d3"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="9fb2b468-b7f7-4577-8024-ab10fecc4b82" involved="#d1673e66-4218-454c-b02a-0890525f6e02"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="25f86451-951c-4be0-9e9a-26faf77fc9c4" involved="#0217c41d-c137-44fc-a81f-178761b96cdf"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="5b3f2c5f-0b3a-4ae0-9558-7a328a5fc50d" involved="#5cbf69bf-274b-44b1-a6aa-f8513e64100d"/>
+          <ownedAbstractFunctionAbstractCapabilityInvolvements xsi:type="org.polarsys.capella.core.data.interaction:AbstractFunctionAbstractCapabilityInvolvement"
+              id="6e60f1ad-1402-40e5-a9f3-bd940ecdb9d3" involved="#b4cb44ea-f26b-4033-bea3-4974f2a35889"/>
+          <ownedAbstractCapabilityRealizations xsi:type="org.polarsys.capella.core.data.interaction:AbstractCapabilityRealization"
+              id="08b684b0-5d7a-471e-9e41-755d59801ce7" targetElement="#16a38593-145b-4a8a-9950-d0df90e85547"
+              sourceElement="#bfe3fc0c-ab49-4c30-b891-0b35f0686bcf"/>
         </ownedCapabilityRealizations>
       </ownedAbstractCapabilityPkg>
       <ownedInterfacePkg xsi:type="org.polarsys.capella.core.data.cs:InterfacePkg"
