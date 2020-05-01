@@ -1,0 +1,102 @@
+%%
+%% This is file `mathscinet.sty',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% mathscinet.dtx 
+%% 
+%%% ====================================================================
+%%% @LaTeX-doc-source-file{
+%%%   filename  = "mathscinet.dtx",
+%%%   version   = "1.02",
+%%%   date      = "2002/02/26",
+%%%   time      = "16:22:58 EST",
+%%%   author    = "Michael J Downes",
+%%%   address   = "American Mathematical Society,
+%%%                Publications Technical Group,
+%%%                PO Box 6248,
+%%%                Providence, RI 02940,
+%%%                USA",
+%%%   email     = "tech-support@ams.org",
+%%%   URL       = "http://www.ams.org/",
+%%%   abstract  = "",
+%%%   checksum  = "24345 166 415 5004",
+%%%   docstring = "The checksum field, produced by Robert Solovay's
+%%%                checksum utility, gives CRC-16 checksum, lines,
+%%%                words, and characters.",
+%%%  }
+%%% ====================================================================
+\NeedsTeXFormat{LaTeX2e}
+\@ifundefined{NormalCatcodes}{%
+  \RequirePackage{pcatcode}\relax\PushCatcodes\NormalCatcodes
+}{}
+\ProvidesPackage{mathscinet}[2002/02/26 v1.02]
+\RequirePackage{textcmds}\relax
+\providecommand{\germ}{\mathfrak}
+\providecommand{\hslash}{\hbar}
+\providecommand{\bold}{\mathbf}
+\providecommand{\scr}{\mathcal}
+\providecommand{\romsup}{\tsup}
+\providecommand{\asup}{\tsup}
+\providecommand{\lasp}{\leavevmode\raise.45ex\hbox{$\lhook$}}
+\providecommand{\rasp}{\leavevmode\raise.45ex\hbox{$\rhook$}}
+\providecommand{\Dbar}{%
+  \leavevmode\lower.6ex\hbox to 0pt{\hskip-.23ex\accent"16\hss}D%
+}
+\providecommand{\dbar}{%
+  \leavevmode\hbox to 0pt{\hskip.2ex\accent"16\hss}d%
+}
+\providecommand{\cprime}{\tprime}
+\providecommand{\cdprime}{\tprime\tprime}
+\providecommand{\bud}{\cdprime}
+\providecommand{\cydot}{\leavevmode\raise.4ex\hbox{.}}
+\def\lowerchar#1#2{%
+  \setbox\z@\hbox{%
+    \lower#1\hbox{\fontshape\updefault\rmfamily\char#2}%
+  }%
+  \dp\z@\z@ \box\z@
+}
+\providecommand{\underchar}[3]{%
+  \leavevmode
+  \begingroup
+  \ifmmode \let\@mathtoggle $\else\let\@mathtoggle\relax\fi
+  \vtop{\lineskip.25ex \lineskiplimit\z@ \baselineskip\z@skip
+    \everycr{}\tabskip\z@skip
+    \halign{##\crcr
+      \@mathtoggle#3\@mathtoggle\crcr
+      \hidewidth\lowerchar{#1}{#2}\hidewidth\crcr
+    }%
+  }%
+  \endgroup
+}
+\providecommand{\underchara}{\underchar{1ex}}
+\providecommand{\utilde}{\protect\underchara{126}}%  tilde accent char
+\providecommand{\uarc}{\protect\underchara{21}}%     arc accent char
+\providecommand{\dudot}{\protect\underchara{127}}%   umlaut accent char
+\providecommand{\lfhook}{\protect\underchar{1.5ex}{39}}%   right-quote char
+\providecommand{\udot}{\protect\underchar{0ex}{46}}% period
+\providecommand{\polhk}{\protect\undercharb{96}}%    left-quote char
+\def\softWarning#1{\message{Accent \noexpand\soft#1 not defined!}}
+\providecommand{\soft}[1]{%
+  \leavevmode
+  \ifcat L\noexpand#1\relax
+    \begingroup
+    \setbox\z@=\hbox{d}\dimen@=\ht\z@\advance\dimen@-1ex\relax
+    \if t#1\relax
+      \raise.6\dimen@\hbox to\z@{\kern.3ex\char 39\hss}#1\relax
+    \else
+      \def\X##1#1##2##3\@nil{##2}%
+      \dimen@ii=\X T{1.3ex}d{.9ex}D{1.4ex}l{.4ex}L{.7ex}%
+                  #1{\dimen@ii\softError{#1}}\@nil
+      \raise.5\dimen@ \hbox to\z@{\kern\dimen@ii \char 39\hss}#1\relax
+    \fi
+    \endgroup
+  \else
+    \errmessage{\noexpand
+      \soft requires a letter, `\string#1' isnt a letter}%
+  \fi
+}
+\endinput
+%%
+%% End of file `mathscinet.sty'.
