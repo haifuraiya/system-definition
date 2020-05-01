@@ -10,7 +10,7 @@ System modelling is performed using the open source [Capella](https://polarsys.o
 
 The folder [capella-system-models](capella-system-models) contains the workspace which can be used by the Capella tool.
 
-The outputs of the tool are rendered to navigable HTML, the index of this is found [here](TBD).
+The outputs of the tool are rendered to navigable HTML, the index of this is found [here](https://phase4space.github.io/system-definition/capella-system-models/top-level/HTML/output/top-level/index.html).
 
 ### Simulations
 
@@ -19,4 +19,4 @@ System level simulations can be found in the [simulations](simulations) folder. 
 Current simulations include:
 - Solar power generation over specific orbits including radiation effects
 - Power budget over orbits including radiation and battery degradation effects
-- TID (Total Ionizing Dose) levels expect in SiO 
+- TID (Total Ionizing Dose) levels expected in SiO 
